@@ -300,7 +300,6 @@ footer {
 }
 
 @media (max-width: 800px) {
-
   
     .menu {
         flex-direction: column;
@@ -315,27 +314,22 @@ footer {
         top: 180px;
         left: 0px;
     }
-
     h1 {
         font-size: 40px;
     }
-
     .titular p{
         font-size: 35px;
         margin-top: -30px;
     }
-
     .contenedor-tarjetas {
         flex-direction: column;
     }
     .tarjeta {
         width: 100%;
     }
-
     #primera-tarjeta {
         margin-top: -100px;
     }
-
     #segunda-tarjeta {
         margin: 0 0px;
         margin-top: 10px;
@@ -347,7 +341,6 @@ footer {
     .tarjeta {
         margin-top: 10px;
     }
-
     .experiencia {
         flex-direction: column;
     }
@@ -355,17 +348,14 @@ footer {
         flex-direction: column;
         width: 100%;
     }
-
     #fotopersonal {
-        width:100%;
-        
+        width:100%;        
     }
     .experiencia-cv {
         padding-top: 0px;
         padding-right: 1px;
         padding-bottom: 0px;
         padding-left: 5px;
-
     }
     .experiencia-cv h2 {
         font-size: 40px;

@@ -357,7 +357,7 @@ footer {
     }
 
     #fotopersonal {
-        width:130%;
+        width:100%;
         
     }
     .experiencia-cv {
@@ -410,6 +410,9 @@ footer {
 
     .input-group {
         flex-direction: column;
+    }
+    input, textarea {
+        min-width: 300px;
     }
 
     .btn {
